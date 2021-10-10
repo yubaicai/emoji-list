@@ -1,18 +1,23 @@
 # emoji-list
- [简体中文](README-CN.md)
 
-[![](https://img.shields.io/github/issues/yubaicai/emoji-list.svg)](https://github.com/yubaicai/emoji-list/issues)  [![](https://img.shields.io/github/forks/yubaicai/emoji-list.svg)](https://github.com/yubaicai/emoji-list/network) [![](https://img.shields.io/github/stars/yubaicai/emoji-list.svg)](https://github.com/yubaicai/emoji-list/stargazers) [![](https://travis-ci.org/yubaicai/emoji-list.svg?branch=master)](https://travis-ci.org/yubaicai/emoji-list) [![](https://img.shields.io/github/release/yubaicai/emoji-list.svg)](https://github.com/yubaicai/emoji-list/releases)[![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-CN.md)
 
-Table of Contents
+
+emoji表情列表
+
+[English](README.md) 
+
+[![](https://img.shields.io/github/issues/yubaicai/emoji-list.svg)](https://github.com/yubaicai/emoji-list/issues)  [![](https://img.shields.io/github/forks/yubaicai/emoji-list.svg)](https://github.com/yubaicai/emoji-list/network) [![](https://img.shields.io/github/stars/yubaicai/emoji-list.svg)](https://github.com/yubaicai/emoji-list/stargazers) [![](https://travis-ci.org/yubaicai/emoji-list.svg?branch=master)](https://travis-ci.org/yubaicai/emoji-list) [![](https://img.shields.io/github/release/yubaicai/emoji-list.svg)](https://github.com/yubaicai/emoji-list/releases)[![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/english.svg)](README.md)
+
+目录
 -----------------
 
-- [People](#people)
-- [Nature](#nature)
-- [Objects](#objects)
-- [Places](#places)
-- [Symbols](#symbols)
+- [人物](#人物)
+- [自然](#自然)
+- [事物](#事物)
+- [地点](#地点)
+- [符号](#符号)
 
-## People ##
+## 人物 ##
 
 | :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
 |---|---|---|
@@ -81,7 +86,7 @@ Table of Contents
 | :rage2: `:rage2:` | :rage3: `:rage3:` | :rage4: `:rage4:` |
 | :suspect: `:suspect:` | :trollface: `:trollface:` | 
 
-## Nature ##
+## 自然 ##
 
 | :sunny: `:sunny:` | :umbrella: `:umbrella:` | :cloud: `:cloud:` |
 |---|---|---|
@@ -124,7 +129,7 @@ Table of Contents
 | :milky_way: `:milky_way:` | :partly_sunny: `:partly_sunny:` | :octocat: `:octocat:` |
 | :squirrel: `:squirrel:` |
 
-## Objects ##
+## 事物 ##
 
 | :bamboo: `:bamboo:` | :gift_heart: `:gift_heart:` | :dolls: `:dolls:` |
 |---|---|---|
@@ -215,7 +220,7 @@ Table of Contents
 | :sweet_potato: `:sweet_potato:` | :eggplant: `:eggplant:` | :tomato: `:tomato:` |
 | :corn: `:corn:` |
 
-## Places ##
+## 地点 ##
 
 | :house: `:house:` | :house_with_garden: `:house_with_garden:` | :school: `:school:` |
 |---|---|---|
@@ -255,7 +260,7 @@ Table of Contents
 | :ru: `:ru:` | :gb: `:gb:` | :uk: `:uk:` |
 | :de: `:de:` |
 
-## Symbols ##
+## 符号 ##
 
 | :one: `:one:` | :two: `:two:` | :three: `:three:` |
 |---|---|---|
